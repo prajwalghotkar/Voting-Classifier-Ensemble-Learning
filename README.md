@@ -59,14 +59,14 @@
 ---
 # 🏗️ Technical Architecture
 # 🔧 Core Components
-'''
+```
 Voting Classifier App
 ├── Frontend (Streamlit)
 ├── Machine Learning Core (Scikit-learn)
 ├── Data Generation Module
 ├── Visualization Engine
 └── Configuration Handler
-'''
+```
 
 ---
 
@@ -129,26 +129,29 @@ Voting Classifier App
 # 🛠️ Installation Steps
 
 ###### 1. Create virtual environment (optional but recommended)
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 ###### 2. Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ###### 3. Run the application
+```
 streamlit run app.py
-
+```
 ---
 
 # 📦 Dependencies
-'''
+```
 streamlit==1.28.0
 scikit-learn==1.3.0
 matplotlib==3.7.2
 seaborn==0.12.2
 pandas==2.1.1
 numpy==1.24.3
-'''
+```
 
 ---
 # 🎮 Usage Guide
@@ -260,8 +263,8 @@ numpy==1.24.3
 
 📧 Email: pmghotkar05@gmail.com
 
-💼 GitHub: prajwalghotkar
+💼 GitHub: https://github.com/prajwalghotkar
 
-🐦 Twitter: @prajwalmg02
+🐦 Twitter: https://x.com/prajwalmg02
 
-🌐 Portfolio: prajwal02portfolio.lovable.app
+🌐 Portfolio: https://prajwal02portfolio.lovable.app
