@@ -263,13 +263,8 @@ https://github.com/user-attachments/assets/3d572091-81f5-4ba0-8158-49f551137e12
 https://github.com/user-attachments/assets/4c2ca4be-4905-4bf3-9cfb-d8986e96b1ea
 
 
-
-# 📞 Contact & Support
-
 📧 Email: pmghotkar05@gmail.com
 
 💼 GitHub: https://github.com/prajwalghotkar
-
-🐦 Twitter: https://x.com/prajwalmg02
 
 🌐 Portfolio: https://prajwal02portfolio.lovable.app
